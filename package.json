@@ -18,7 +18,7 @@
     "homebridge": ">=0.2.0"
   },
   "dependencies": {
-    "electric-objects": "git+https://git@github.com/aphex3k/electric-objects.git",
+    "electric-objects": "https://github.com/aphex3k/electric-objects",
     "memoizee": "^0.4.14",
     "request": "^2.87.0",
     "request-promise-native": "^1.0.5",

@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:aphex3k/homebridge-electric-objects-eo1.git"
+    "url": "git+https://git@github.com/aphex3k/homebridge-electric-objects-eo1.git"
   },
   "bugs": {
     "url": "https://github.com/aphex3k/homebridge-electric-objects-eo1/issues"
@@ -18,7 +18,7 @@
     "homebridge": ">=0.2.0"
   },
   "dependencies": {
-    "electric-objects": "git+ssh://git@github.com:aphex3k/electric-objects.git",
+    "electric-objects": "git+https://git@github.com/aphex3k/electric-objects.git",
     "memoizee": "^0.4.14",
     "request": "^2.87.0",
     "request-promise-native": "^1.0.5",
